@@ -26,7 +26,7 @@
     "typescript": "^4.0.0"
   },
   "dependencies": {
-    "@nextbitlabs/trend-line": "^1.0.5",
+    "@nextbitlabs/trend-line": "file:../trend-line",
     "sirv-cli": "^1.0.0"
   }
 }

@@ -1,6 +1,7 @@
 <script lang="ts">
 	export let name: string;
 	import '@nextbitlabs/trend-line';
+
 	let data = [[1,1], [2,2], [3, 1.5], [4, 2.5]];
 </script>
 
